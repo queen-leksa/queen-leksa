@@ -4,7 +4,7 @@
 
 <br>
 
-<div id="badges">
+<div id="badges" align="center">
   <a href="https://github.com/Lekso4ka">
     <img src="https://img.shields.io/static/v1?label=&message=Main%20Profile&color=blueviolet" alt="Lekso4ka"/>
   </a>
