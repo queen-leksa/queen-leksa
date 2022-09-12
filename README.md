@@ -1,6 +1,14 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/GCukKyf32k9B6/giphy.gif?cid=ecf05e47diktpvb9wmr6frcggkjrem1wj1rr67v5dkgz475e&rid=giphy.gif&ct=g" width="100"/>
 </div>
+
+<br>
+
+<div id="badges">
+  <a href="https://github.com/Lekso4ka">
+    <img src="https://img.shields.io/static/v1?label=&message=Main%20Profile&color=blueviolet" alt="Lekso4ka"/>
+  </a>
+</div>
 <div align="center">
     <img src="https://komarev.com/ghpvc/?username=queen-leksa&style=flat-square&color=blueviolet" alt=""/>
     <h1>Lekso4ka</h1>
