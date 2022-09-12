@@ -6,7 +6,7 @@
     <h1>Lekso4ka</h1>
 </div>
 
----
+<br>
 
 ## :purple_heart: About me
 
@@ -17,7 +17,7 @@ I am Fullstack Developer and Teacher
 - :cat: CatLover
 - :elf_woman: Night Elf Hunter
 
----
+<br>
 
 ## :purple_heart: Languages & Tools
 
@@ -35,13 +35,17 @@ I am Fullstack Developer and Teacher
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+<br>
 
 ## :purple_heart: My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=queen-leksa&theme=tokyonight)](https://git.io/streak-stats)
 
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=queen-leksa&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=queen-leksa&show_icons=true&theme=tokyonight)
 
